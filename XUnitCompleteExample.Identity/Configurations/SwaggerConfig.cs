@@ -1,6 +1,4 @@
-﻿using Microsoft.AspNetCore.Mvc.ApiExplorer;
-
-namespace XUnitCompleteExample.Identity.Configurations
+﻿namespace XUnitCompleteExample.Identity.Configurations
 {
     public class SwaggerConfig : IConfigureOptions<SwaggerGenOptions>
     {

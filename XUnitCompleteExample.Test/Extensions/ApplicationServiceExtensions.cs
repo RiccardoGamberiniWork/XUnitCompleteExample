@@ -1,6 +1,4 @@
-﻿using XUnitCompleteExample.Configurations;
-
-namespace XUnitCompleteExample.Extensions;
+﻿namespace XUnitCompleteExample.Extensions;
 
 public static class ApplicationServiceExtensions
 {
