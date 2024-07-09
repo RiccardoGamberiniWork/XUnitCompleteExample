@@ -1,0 +1,9 @@
+{
+  "HttpClientConfig": {
+    "CommonScheme": "http",
+    "CommonHost": "",
+    "CommonPort": "",
+    "CommonPath": "something/",
+    "DefaultApiVersion": ""
+  }
+}

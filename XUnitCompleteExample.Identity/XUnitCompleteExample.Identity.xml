@@ -1,0 +1,40 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>XUnitCompleteExample.Identity</name>
+    </assembly>
+    <members>
+        <member name="T:XUnitCompleteExample.Identity.Common.EventCodes">
+            <summary>
+            A collection of constants for XUnitCompleteExample.Identity event codes.
+            </summary>
+        </member>
+        <member name="F:XUnitCompleteExample.Identity.Common.EventCodes.Ati1000EventA">
+            <summary>
+                XUnitCompleteExample.Identity 1000 event code.
+            </summary>
+        </member>
+        <member name="F:XUnitCompleteExample.Identity.Common.EventCodes.Ati1001EventB">
+            <summary>
+            XUnitCompleteExample.Identity 1001 event code.
+            </summary>
+        </member>
+        <member name="F:XUnitCompleteExample.Identity.Common.EventCodes.Ati1002EventC">
+            <summary>
+            XUnitCompleteExample.Identity 1002 event code.
+            </summary>
+        </member>
+        <member name="T:XUnitCompleteExample.Identity.Migrations.InitialMigration">
+            <inheritdoc />
+        </member>
+        <member name="M:XUnitCompleteExample.Identity.Migrations.InitialMigration.Up(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="M:XUnitCompleteExample.Identity.Migrations.InitialMigration.Down(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="M:XUnitCompleteExample.Identity.Migrations.InitialMigration.BuildTargetModel(Microsoft.EntityFrameworkCore.ModelBuilder)">
+            <inheritdoc />
+        </member>
+    </members>
+</doc>

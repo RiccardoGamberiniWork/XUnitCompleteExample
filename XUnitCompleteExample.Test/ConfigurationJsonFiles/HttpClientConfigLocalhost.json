@@ -1,0 +1,7 @@
+{
+  "CommonScheme": "http",
+  "CommonHost": "localhost",
+  "CommonPort": "5178",
+  "CommonPath": "api/",
+  "DefaultApiVersion": ""
+}

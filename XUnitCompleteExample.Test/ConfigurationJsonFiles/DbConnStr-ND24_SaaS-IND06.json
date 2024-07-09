@@ -1,0 +1,10 @@
+{
+  "DataSource": "IND06\\SQL19,1419",
+  "UserID": "sa",
+  "Password": "duemila19",
+  "InitialCatalog": "ND24_SaaS",
+  "TrustedConnection": "False",
+  "MultipleActiveResultSets": "True",
+  "Encrypt": "False",
+  "TrustServerCertificate": "True"
+}

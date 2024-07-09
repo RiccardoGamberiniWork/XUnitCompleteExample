@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XUnitCompleteExample.Identity", "XUnitCompleteExample.Identity\XUnitCompleteExample.Identity.csproj", "{B00AC851-4175-4D07-97D6-C87C533582DC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XUnitCompleteExample.WebAPIExample", "XUnitCompleteExample.WebAPIExample\XUnitCompleteExample.WebAPIExample.csproj", "{E37A5856-C30D-4077-AD9D-C5B8E568517C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XUnitCompleteExample.Test", "XUnitCompleteExample.Test\XUnitCompleteExample.Test.csproj", "{8AA4914E-366E-4FF1-9CFF-15C0BCDC5419}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B00AC851-4175-4D07-97D6-C87C533582DC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B00AC851-4175-4D07-97D6-C87C533582DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B00AC851-4175-4D07-97D6-C87C533582DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B00AC851-4175-4D07-97D6-C87C533582DC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E37A5856-C30D-4077-AD9D-C5B8E568517C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E37A5856-C30D-4077-AD9D-C5B8E568517C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E37A5856-C30D-4077-AD9D-C5B8E568517C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E37A5856-C30D-4077-AD9D-C5B8E568517C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8AA4914E-366E-4FF1-9CFF-15C0BCDC5419}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8AA4914E-366E-4FF1-9CFF-15C0BCDC5419}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8AA4914E-366E-4FF1-9CFF-15C0BCDC5419}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8AA4914E-366E-4FF1-9CFF-15C0BCDC5419}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
